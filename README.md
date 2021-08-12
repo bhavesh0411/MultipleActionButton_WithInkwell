@@ -3,7 +3,7 @@
 
 A project based on learning differnt concept of flutter.
 
-Include functionality with single:
+Include functionality with single button:
  - on single Tap
  - on Double Tap
  - on Long Pressed
